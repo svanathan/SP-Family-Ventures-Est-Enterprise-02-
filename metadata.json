@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of SP FAMILY VENTURES EST ENTERPRISE (002905563-H)",
+  "description": "A comprehensive business management application for SP Family Ventures EST Enterprise, featuring order entry, customer and product management, invoicing, and sales reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
